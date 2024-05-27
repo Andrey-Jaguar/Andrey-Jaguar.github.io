@@ -1,6 +1,3 @@
-importScripts("https://www.gstatic.com/firebasejs/10.11.0/firebase-app-compat.js");
-importScripts("https://www.gstatic.com/firebasejs/10.11.0/firebase-messaging-compat.js");
-
 const firebaseConfig = {
   // to cut the chase, just copy it from your Firebase Project settings
   apiKey: "AIzaSyCzaizV5zcQ0GGLwKnA4IS5K8u7nGVe8rE",
